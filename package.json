@@ -1,12 +1,17 @@
 {
-  "name": "02-course-app",
+  "name": "week-08",
   "version": "1.0.0",
-  "description": "This repository contains the backend code for a course management application.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.2"
+  }
 }

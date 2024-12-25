@@ -1,0 +1,12 @@
+{
+  "name": "02-course-app",
+  "version": "1.0.0",
+  "description": "This repository contains the backend code for a course management application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
